@@ -1,0 +1,12 @@
+body {
+  background-color: bisque;
+}
+
+.bruno {
+  align-items: center;
+}
+
+.feedback {
+  display: flex;
+  justify-content: space-between;
+}
